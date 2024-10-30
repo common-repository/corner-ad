@@ -1,0 +1,441 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: corner-ad\n"
+"POT-Creation-Date: 2022-08-27 02:34+0200\n"
+"PO-Revision-Date: 2022-08-27 02:34+0200\n"
+"Last-Translator: CodePeople\n"
+"Language-Team: CodePeople\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr__;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: corner-ad.php:214
+msgid "Help"
+msgstr ""
+
+#: corner-ad.php:218
+msgid "Request custom changes"
+msgstr ""
+
+#: corner-ad.php:222
+msgid "Settings"
+msgstr ""
+
+#: corner-ad.php:244 pagebuilders/beaverbuilder/cornerad.inc.php:24
+#: pagebuilders/beaverbuilder/cornerad/cornerad.php:9
+#: pagebuilders/beaverbuilder/cornerad/cornerad.php:11
+#: pagebuilders/beaverbuilder/cornerad/cornerad.php:12
+#: pagebuilders/builders.php:88 pagebuilders/elementor/elementor.pb.php:36
+#: pagebuilders/siteorigin/siteorigin-cpca/siteorigin-cpca.php:24
+msgid "Corner Ad"
+msgstr ""
+
+#: corner-ad.php:394
+msgid "Insert Corner Ad"
+msgstr ""
+
+#: includes/admin_functions.php:12
+msgid ""
+"As was selected the post type option for the \"Display on\" attribute, you "
+"must select at least a post type from the list"
+msgstr ""
+
+#: includes/admin_functions.php:63
+msgid ">> Video Tutorial <<"
+msgstr ""
+
+#: includes/admin_functions.php:70
+msgid "Select a Corner Ad or create a new one"
+msgstr ""
+
+#: includes/admin_functions.php:71
+msgid ""
+"If you want test the premium version of Corner Ad go to the following links:"
+"<br/> <a href=\"https://demos.dwbooster.com/corner-ad/wp-login.php\" target="
+"\"_blank\">Administration area: Click to access the administration area "
+"demo</a><br/> <a href=\"https://demos.dwbooster.com/corner-ad/\" target="
+"\"_blank\">Public page: Click to access the Corner Ad</a><br><br><a href="
+"\"https://wordpress.org/support/plugin/corner-ad/#new-post\" target=\"_blank"
+"\">I've a question</a>"
+msgstr ""
+
+#: includes/admin_functions.php:75 includes/admin_functions.php:88
+msgid "Create New Ad"
+msgstr ""
+
+#: includes/admin_functions.php:84
+msgid "Edit"
+msgstr ""
+
+#: includes/admin_functions.php:84
+msgid "Remove"
+msgstr ""
+
+#: includes/admin_functions.php:101
+msgid "Displaying Ads at Website's Scope"
+msgstr ""
+
+#: includes/admin_functions.php:104
+msgid "Select the Ad to be displayed by default in the following circumstances"
+msgstr ""
+
+#: includes/admin_functions.php:108
+msgid "Ads list"
+msgstr ""
+
+#: includes/admin_functions.php:110
+msgid "- Select an Ad -"
+msgstr ""
+
+#: includes/admin_functions.php:116
+msgid "- or -"
+msgstr ""
+
+#: includes/admin_functions.php:117
+msgid "Random ad"
+msgstr ""
+
+#: includes/admin_functions.php:118
+msgid "Display a random AD"
+msgstr ""
+
+#: includes/admin_functions.php:121
+msgid "You should create at least an Ad first (section above)."
+msgstr ""
+
+#: includes/admin_functions.php:125
+msgid "Display on"
+msgstr ""
+
+#: includes/admin_functions.php:128
+msgid "Every page"
+msgstr ""
+
+#: includes/admin_functions.php:129
+msgid "Show the Ad on every page, post or section of website"
+msgstr ""
+
+#: includes/admin_functions.php:132
+msgid "Homepage only"
+msgstr ""
+
+#: includes/admin_functions.php:133
+msgid "Show the Ad on the homepage only"
+msgstr ""
+
+#: includes/admin_functions.php:136
+msgid "Specific post type"
+msgstr ""
+
+#: includes/admin_functions.php:137
+msgid ""
+"Show the Ad with the following post types (select them from the following "
+"list)"
+msgstr ""
+
+#: includes/admin_functions.php:140
+msgid "Post types list"
+msgstr ""
+
+#: includes/admin_functions.php:155 includes/admin_functions.php:174
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin_functions.php:168
+msgid "Integrate with Google Analytics"
+msgstr ""
+
+#: includes/admin_functions.php:171
+msgid "Analytics integration"
+msgstr ""
+
+#: includes/admin_functions.php:171
+msgid "Registering the click events in Google Analytics"
+msgstr ""
+
+#: includes/admin_functions.php:172
+msgid "Enter the Google Analytics Measurement Id"
+msgstr ""
+
+#: includes/admin_functions.php:173
+msgid "Analytics Measurement id"
+msgstr ""
+
+#: includes/admin_functions.php:196
+msgid "Create or edit a Corner Ad"
+msgstr ""
+
+#: includes/admin_functions.php:269
+msgid "The Ad name is required"
+msgstr ""
+
+#: includes/admin_functions.php:320
+msgid "The Ad image is required"
+msgstr ""
+
+#: includes/admin_functions.php:326
+msgid "The Ad link is required"
+msgstr ""
+
+#: includes/admin_functions.php:412
+msgid "The corner Ad has been stored successfully"
+msgstr ""
+
+#: includes/admin_functions.php:413
+msgid "To use it insert the shortcode into the page/post content"
+msgstr ""
+
+#: includes/admin_functions.php:414
+msgid ""
+"To inser the ads shortcode directly into the template files of the active "
+"theme, use the piece of code"
+msgstr ""
+
+#: includes/admin_functions.php:418
+msgid "Edit the Corner Ad"
+msgstr ""
+
+#: includes/admin_functions.php:418
+msgid "Create a new Corner Ad"
+msgstr ""
+
+#: includes/admin_functions.php:433 includes/admin_functions.php:435
+msgid "Ad name"
+msgstr ""
+
+#: includes/admin_functions.php:439
+msgid "Enter Ad link"
+msgstr ""
+
+#: includes/admin_functions.php:441
+msgid "Ad link"
+msgstr ""
+
+#: includes/admin_functions.php:445
+msgid "Open Ad in"
+msgstr ""
+
+#: includes/admin_functions.php:447
+msgid "Open in self or blank"
+msgstr ""
+
+#: includes/admin_functions.php:448
+msgid "New page"
+msgstr ""
+
+#: includes/admin_functions.php:449
+msgid "Self page"
+msgstr ""
+
+#: includes/admin_functions.php:454
+msgid "Select Ad image"
+msgstr ""
+
+#: includes/admin_functions.php:455
+msgid "It is recommended the use of square images greater than 400x400 pixels"
+msgstr ""
+
+#: includes/admin_functions.php:460
+msgid "Ad image"
+msgstr ""
+
+#: includes/admin_functions.php:460 includes/admin_functions.php:461
+#: includes/admin_functions.php:466
+msgid "Browse"
+msgstr ""
+
+#: includes/admin_functions.php:461
+msgid "Thumbnail image"
+msgstr ""
+
+#: includes/admin_functions.php:461
+msgid "Thumbnail URL"
+msgstr ""
+
+#: includes/admin_functions.php:461
+msgid "Get the thumbnail of the Ad's image"
+msgstr ""
+
+#: includes/admin_functions.php:464
+msgid "Select an audio file to play in background"
+msgstr ""
+
+#: includes/admin_functions.php:466
+msgid "Ad audio"
+msgstr ""
+
+#: includes/admin_functions.php:478 includes/admin_functions.php:480
+msgid "Set as mirror"
+msgstr ""
+
+#: includes/admin_functions.php:483
+msgid "Use corner with color"
+msgstr ""
+
+#: includes/admin_functions.php:485
+msgid "Color code"
+msgstr ""
+
+#: includes/admin_functions.php:490
+msgid "Display Ad in corner"
+msgstr ""
+
+#: includes/admin_functions.php:492
+msgid "Align to corner"
+msgstr ""
+
+#: includes/admin_functions.php:493
+msgid "Top-Left"
+msgstr ""
+
+#: includes/admin_functions.php:499
+msgid "Load Ad on device"
+msgstr ""
+
+#: includes/admin_functions.php:501
+msgid "Desktop"
+msgstr ""
+
+#: includes/admin_functions.php:503
+msgid "Mobile"
+msgstr ""
+
+#: includes/admin_functions.php:507
+msgid "Open corner in"
+msgstr ""
+
+#: includes/admin_functions.php:508 includes/admin_functions.php:513
+msgid "Time in seconds"
+msgstr ""
+
+#: includes/admin_functions.php:508 includes/admin_functions.php:513
+msgid "Seconds"
+msgstr ""
+
+#: includes/admin_functions.php:512
+msgid "Close corner in"
+msgstr ""
+
+#: includes/admin_functions.php:518
+msgid "Schedule"
+msgstr ""
+
+#: includes/admin_functions.php:520
+msgid ""
+"The from and to attributes are optional, fill them only if you want to "
+"restrict the ad by date"
+msgstr ""
+
+#: includes/admin_functions.php:524
+msgid "From"
+msgstr ""
+
+#: includes/admin_functions.php:526
+msgid "From date"
+msgstr ""
+
+#: includes/admin_functions.php:526 includes/admin_functions.php:531
+msgid "Enter a valid date with the format: yyyy-mm-dd"
+msgstr ""
+
+#: includes/admin_functions.php:530
+msgid "To"
+msgstr ""
+
+#: includes/admin_functions.php:531
+msgid "To date"
+msgstr ""
+
+#: includes/admin_functions.php:541
+msgid "Google Analytics Integration"
+msgstr ""
+
+#: includes/admin_functions.php:543
+msgid ""
+"Are you interested in how to add custom event tracking to your ads with "
+"Google Analytics? You can set up custom categories, labels, and actions for "
+"your ads clicks with Google Analytics. If Google Analytics Tracking Id was "
+"not entered, this section takes no action."
+msgstr ""
+
+#: includes/admin_functions.php:546
+msgid "Google Analytics - event category"
+msgstr ""
+
+#: includes/admin_functions.php:548
+msgid "category"
+msgstr ""
+
+#: includes/admin_functions.php:552
+msgid "Google Analytics - event action"
+msgstr ""
+
+#: includes/admin_functions.php:554
+msgid "action"
+msgstr ""
+
+#: includes/admin_functions.php:558
+msgid "Google Analytics - event label"
+msgstr ""
+
+#: includes/admin_functions.php:560
+msgid "label"
+msgstr ""
+
+#: includes/admin_functions.php:568
+msgid "Save Corner Ad"
+msgstr ""
+
+#: includes/admin_functions.php:568
+msgid "Back to the list"
+msgstr ""
+
+#: pagebuilders/beaverbuilder/cornerad.inc.php:21
+msgid "Select the Ad to insert"
+msgstr ""
+
+#: pagebuilders/beaverbuilder/cornerad.inc.php:28
+msgid "Select Ad"
+msgstr ""
+
+#: pagebuilders/beaverbuilder/cornerad.inc.php:34
+msgid "Ad container"
+msgstr ""
+
+#: pagebuilders/beaverbuilder/cornerad.inc.php:36
+msgid "The Ad container affects only to the commercial version of the plugin"
+msgstr ""
+
+#: pagebuilders/beaverbuilder/cornerad/cornerad.php:10
+msgid "Inserts an Ad"
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:54
+msgid "Select an Ad"
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:64
+msgid ""
+"Display the Ad relative to (Only available in the Professional version of "
+"the plugin)"
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:68
+msgid "(leave in blank to display the Ad relative to the webpage)"
+msgstr ""
+
+#: pagebuilders/siteorigin/siteorigin-cpca/siteorigin-cpca.php:26
+msgid ""
+"Minimally invasive advertising display that uses any of your webpage's top "
+"corners"
+msgstr ""
+
+#: pagebuilders/siteorigin/siteorigin-cpca/siteorigin-cpca.php:34
+msgid "Select the Ad"
+msgstr ""
